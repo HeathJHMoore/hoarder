@@ -1,0 +1,11 @@
+{
+  "firebaseConfig": {
+    "apiKey": "AIzaSyBaDFddFn8D2IJ2GdSfTdBtRHsu-AkgQIg",
+    "authDomain": "hoarder-f8dec.firebaseapp.com",
+    "databaseURL": "https://hoarder-f8dec.firebaseio.com",
+    "projectId": "hoarder-f8dec",
+    "storageBucket": "",
+    "messagingSenderId": "617425018039",
+    "appId": "1:617425018039:web:54985a0737668fa0"
+  }
+}
